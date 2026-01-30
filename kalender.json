@@ -1,0 +1,503 @@
+{
+  "chakras": [
+    {
+      "nummer": 1,
+      "name": "Muladhara",
+      "deutsch": "Wurzelchakra",
+      "farbe": "Rot",
+      "beschreibung": "Verwurzelung, Stabilität und Urvertrauen - Deine Verbindung zur Erde und das Fundament deines Seins"
+    },
+    {
+      "nummer": 2,
+      "name": "Svadhisthana",
+      "deutsch": "Sakralchakra",
+      "farbe": "Orange",
+      "beschreibung": "Kreativität, Sinnlichkeit und Lebensfreude - Die Quelle deiner schöpferischen Kraft und emotionalen Tiefe"
+    },
+    {
+      "nummer": 3,
+      "name": "Manipura",
+      "deutsch": "Nabelchakra",
+      "farbe": "Gelb",
+      "beschreibung": "Willenskraft, Selbstbewusstsein und persönliche Macht - Dein inneres Feuer und deine Handlungsfähigkeit"
+    },
+    {
+      "nummer": 4,
+      "name": "Anahata",
+      "deutsch": "Herzchakra",
+      "farbe": "Grün",
+      "beschreibung": "Liebe, Mitgefühl und Verbundenheit - Die Brücke zwischen Körper und Geist, Quelle bedingungsloser Liebe"
+    },
+    {
+      "nummer": 5,
+      "name": "Vishuddha",
+      "deutsch": "Halschakra",
+      "farbe": "Blau",
+      "beschreibung": "Ausdruck, Wahrheit und Kommunikation - Deine authentische Stimme und die Kraft des wahrhaftigen Wortes"
+    },
+    {
+      "nummer": 6,
+      "name": "Ajna",
+      "deutsch": "Stirnchakra",
+      "farbe": "Indigo",
+      "beschreibung": "Intuition, Weisheit und inneres Sehen - Das dritte Auge, das über die materielle Welt hinausblickt"
+    },
+    {
+      "nummer": 7,
+      "name": "Sahasrara",
+      "deutsch": "Kronenchakra",
+      "farbe": "Violett/Weiß",
+      "beschreibung": "Spiritualität, Einheit und höheres Bewusstsein - Deine Verbindung zum Göttlichen und universellen Sein"
+    }
+  ],
+  "tore": [
+    {
+      "tor": 1,
+      "zitat_original": "Yogastah kuru karmani",
+      "zitat_quelle": "Bhagavad Gita 2.48",
+      "uebersetzung": "Verweile im Yoga und handle - Erfülle deine Aufgaben, während du in innerer Ausgeglichenheit ruhst",
+      "tantra_aufgabe": "Beginne den Tag mit 5 bewussten Atemzügen, bevor du aufstehst"
+    },
+    {
+      "tor": 2,
+      "zitat_original": "Tat tvam asi",
+      "zitat_quelle": "Chandogya Upanishad",
+      "uebersetzung": "Das bist du - Erkenne die göttliche Essenz in dir selbst",
+      "tantra_aufgabe": "Schaue heute in den Spiegel und sage: 'Ich bin genug'"
+    },
+    {
+      "tor": 3,
+      "zitat_original": "The butterfly counts not months but moments, and has time enough",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Der Schmetterling zählt nicht Monate, sondern Momente, und hat Zeit genug",
+      "tantra_aufgabe": "Nimm dir heute 3 Minuten, um nur zu sein - ohne zu tun"
+    },
+    {
+      "tor": 4,
+      "zitat_original": "Karmanye vadhikaraste ma phaleshu kadachana",
+      "zitat_quelle": "Bhagavad Gita 2.47",
+      "uebersetzung": "Du hast das Recht zu handeln, aber niemals auf die Früchte deiner Handlung",
+      "tantra_aufgabe": "Tue heute etwas Gutes, ohne eine Gegenleistung zu erwarten"
+    },
+    {
+      "tor": 5,
+      "zitat_original": "Aham Brahmasmi",
+      "zitat_quelle": "Brihadaranyaka Upanishad",
+      "uebersetzung": "Ich bin das Absolute - Die Erkenntnis der Einheit mit dem Universum",
+      "tantra_aufgabe": "Schreibe 3 Dinge auf, für die du heute dankbar bist"
+    },
+    {
+      "tor": 6,
+      "zitat_original": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Lass dein Leben leicht tanzen am Rande der Zeit wie Tau auf einer Blattspitze",
+      "tantra_aufgabe": "Tanze heute für 2 Minuten zu deiner Lieblingsmusik"
+    },
+    {
+      "tor": 7,
+      "zitat_original": "Sarvam khalvidam brahma",
+      "zitat_quelle": "Chandogya Upanishad",
+      "uebersetzung": "Alles ist wahrlich Brahman - Die Einheit aller Existenz",
+      "tantra_aufgabe": "Berühre heute bewusst die Erde mit deinen bloßen Füßen"
+    },
+    {
+      "tor": 8,
+      "zitat_original": "Sthitaprajna",
+      "zitat_quelle": "Bhagavad Gita 2.54",
+      "uebersetzung": "Der Mensch mit festem Verstand - Unerschütterlich in Weisheit ruhend",
+      "tantra_aufgabe": "Halte heute in einer stressigen Situation inne und atme dreimal tief"
+    },
+    {
+      "tor": 9,
+      "zitat_original": "The soil in return for her service keeps the tree tied to her",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Die Erde hält den Baum für ihren Dienst an sich gebunden",
+      "tantra_aufgabe": "Pflanze heute etwas oder pflege eine Pflanze"
+    },
+    {
+      "tor": 10,
+      "zitat_original": "Satyam eva jayate",
+      "zitat_quelle": "Mundaka Upanishad",
+      "uebersetzung": "Nur die Wahrheit siegt - Wahrheit ist der Weg zur Befreiung",
+      "tantra_aufgabe": "Sprich heute eine unangenehme Wahrheit liebevoll aus"
+    },
+    {
+      "tor": 11,
+      "zitat_original": "Vasudhaiva kutumbakam",
+      "zitat_quelle": "Maha Upanishad",
+      "uebersetzung": "Die Welt ist eine Familie - Alle Wesen sind miteinander verbunden",
+      "tantra_aufgabe": "Lächle heute 5 fremde Menschen an"
+    },
+    {
+      "tor": 12,
+      "zitat_original": "Love is an endless mystery, for it has nothing else to explain it",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Liebe ist ein endloses Mysterium, denn nichts kann sie erklären",
+      "tantra_aufgabe": "Umarme heute jemanden länger als üblich"
+    },
+    {
+      "tor": 13,
+      "zitat_original": "Nanyah pantha vidyate ayanaya",
+      "zitat_quelle": "Svetasvatara Upanishad",
+      "uebersetzung": "Es gibt keinen anderen Weg zur Befreiung - Der spirituelle Pfad ist einzigartig",
+      "tantra_aufgabe": "Meditiere heute 5 Minuten in Stille"
+    },
+    {
+      "tor": 14,
+      "zitat_original": "Uddharet atmanatmanam",
+      "zitat_quelle": "Bhagavad Gita 6.5",
+      "uebersetzung": "Erhebe dich selbst durch dich selbst - Sei dein eigener Freund, nicht dein Feind",
+      "tantra_aufgabe": "Schreibe dir selbst einen liebevollen Brief"
+    },
+    {
+      "tor": 15,
+      "zitat_original": "Death is not extinguishing the light; it is only putting out the lamp because the dawn has come",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Der Tod löscht nicht das Licht; er pustet nur die Lampe aus, weil die Morgendämmerung kommt",
+      "tantra_aufgabe": "Lasse heute bewusst etwas los, das dir nicht mehr dient"
+    },
+    {
+      "tor": 16,
+      "zitat_original": "Asato ma sadgamaya",
+      "zitat_quelle": "Brihadaranyaka Upanishad",
+      "uebersetzung": "Führe mich von der Unwirklichkeit zur Wirklichkeit, von der Dunkelheit zum Licht",
+      "tantra_aufgabe": "Zünde heute eine Kerze an und schaue 2 Minuten in die Flamme"
+    },
+    {
+      "tor": 17,
+      "zitat_original": "Yogah karmasu kaushalam",
+      "zitat_quelle": "Bhagavad Gita 2.50",
+      "uebersetzung": "Yoga ist Geschicklichkeit im Handeln - Handle mit Bewusstheit und Präsenz",
+      "tantra_aufgabe": "Erledige heute eine Aufgabe mit voller Achtsamkeit"
+    },
+    {
+      "tor": 18,
+      "zitat_original": "Faith is the bird that feels the light when the dawn is still dark",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Vertrauen ist der Vogel, der das Licht fühlt, wenn die Morgendämmerung noch dunkel ist",
+      "tantra_aufgabe": "Vertraue heute auf etwas, auch wenn du das Ergebnis nicht siehst"
+    },
+    {
+      "tor": 19,
+      "zitat_original": "Prajnanam brahma",
+      "zitat_quelle": "Aitareya Upanishad",
+      "uebersetzung": "Bewusstsein ist Brahman - Das höchste Bewusstsein ist die ultimative Realität",
+      "tantra_aufgabe": "Beobachte heute deine Gedanken ohne sie zu bewerten"
+    },
+    {
+      "tor": 20,
+      "zitat_original": "Samatvam yoga ucyate",
+      "zitat_quelle": "Bhagavad Gita 2.48",
+      "uebersetzung": "Gleichmut wird Yoga genannt - Bleibe ausgeglichen in Erfolg und Misserfolg",
+      "tantra_aufgabe": "Nimm heute eine Enttäuschung mit Gelassenheit an"
+    },
+    {
+      "tor": 21,
+      "zitat_original": "Don't limit a child to your own learning, for he was born in another time",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Begrenze ein Kind nicht auf dein eigenes Wissen, denn es wurde in einer anderen Zeit geboren",
+      "tantra_aufgabe": "Lerne heute etwas Neues von jemandem, der jünger ist als du"
+    },
+    {
+      "tor": 22,
+      "zitat_original": "Atmavit sarvavit",
+      "zitat_quelle": "Mundaka Upanishad",
+      "uebersetzung": "Wer das Selbst kennt, kennt alles - Selbsterkenntnis ist universelles Wissen",
+      "tantra_aufgabe": "Frage dich heute: 'Wer bin ich wirklich?'"
+    },
+    {
+      "tor": 23,
+      "zitat_original": "Sarvabhutahite ratah",
+      "zitat_quelle": "Bhagavad Gita 12.4",
+      "uebersetzung": "Dem Wohl aller Wesen gewidmet - Handle zum Nutzen aller",
+      "tantra_aufgabe": "Tue heute etwas für jemanden, der es nicht zurückgeben kann"
+    },
+    {
+      "tor": 24,
+      "zitat_original": "I slept and dreamt that life was joy. I awoke and saw that life was service",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Ich schlief und träumte, das Leben sei Freude. Ich erwachte und sah, das Leben ist Dienst",
+      "tantra_aufgabe": "Diene heute jemandem ohne Erwartung"
+    },
+    {
+      "tor": 25,
+      "zitat_original": "Ekam sat vipra bahudha vadanti",
+      "zitat_quelle": "Rig Veda",
+      "uebersetzung": "Die Wahrheit ist eine, die Weisen nennen sie mit verschiedenen Namen",
+      "tantra_aufgabe": "Akzeptiere heute eine andere Perspektive als deine eigene"
+    },
+    {
+      "tor": 26,
+      "zitat_original": "Antar bahischa tat sarvam",
+      "zitat_quelle": "Isha Upanishad",
+      "uebersetzung": "Innen und außen durchdringt es alles - Das Göttliche ist überall",
+      "tantra_aufgabe": "Suche heute das Göttliche in etwas Alltäglichem"
+    },
+    {
+      "tor": 27,
+      "zitat_original": "Clouds come floating into my life, no longer to carry rain, but to add color to my sunset sky",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Wolken schweben in mein Leben, nicht mehr um Regen zu bringen, sondern um meinem Abendhimmel Farbe zu verleihen",
+      "tantra_aufgabe": "Betrachte heute den Himmel für 5 Minuten"
+    },
+    {
+      "tor": 28,
+      "zitat_original": "Sama duhkha sukha",
+      "zitat_quelle": "Bhagavad Gita 14.24",
+      "uebersetzung": "Gleich in Schmerz und Vergnügen - Bewahre Gleichmut in allen Situationen",
+      "tantra_aufgabe": "Akzeptiere heute ein unangenehmes Gefühl ohne es zu verdrängen"
+    },
+    {
+      "tor": 29,
+      "zitat_original": "Ayam atma brahma",
+      "zitat_quelle": "Mandukya Upanishad",
+      "uebersetzung": "Dieses Selbst ist Brahman - Dein wahres Selbst ist das Absolute",
+      "tantra_aufgabe": "Sitze heute still und spüre in dich hinein"
+    },
+    {
+      "tor": 30,
+      "zitat_original": "You can't cross the sea merely by standing and staring at the water",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Du kannst das Meer nicht überqueren, indem du nur stehst und aufs Wasser starrst",
+      "tantra_aufgabe": "Mache heute den ersten Schritt bei etwas, das du aufschiebst"
+    },
+    {
+      "tor": 31,
+      "zitat_original": "Atmani vindate viryam",
+      "zitat_quelle": "Katha Upanishad",
+      "uebersetzung": "Im Selbst findet man wahre Kraft - Die innere Stärke liegt in der Selbsterkenntnis",
+      "tantra_aufgabe": "Erinnere dich heute an eine Situation, in der du stark warst"
+    },
+    {
+      "tor": 32,
+      "zitat_original": "Nirmamo nirahankarah",
+      "zitat_quelle": "Bhagavad Gita 2.71",
+      "uebersetzung": "Ohne Besitzanspruch, ohne Ego - Lebe frei von Anhaftung und Eigendünkel",
+      "tantra_aufgabe": "Verschenke heute etwas, das dir lieb ist"
+    },
+    {
+      "tor": 33,
+      "zitat_original": "The highest education is that which does not merely give us information but makes our life in harmony with all existence",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Die höchste Bildung gibt uns nicht nur Information, sondern bringt unser Leben in Harmonie mit allem Existierenden",
+      "tantra_aufgabe": "Finde heute Harmonie in einem Konflikt"
+    },
+    {
+      "tor": 34,
+      "zitat_original": "Ananda brahma",
+      "zitat_quelle": "Taittiriya Upanishad",
+      "uebersetzung": "Glückseligkeit ist Brahman - Das Absolute ist reine Freude",
+      "tantra_aufgabe": "Lache heute aus vollem Herzen"
+    },
+    {
+      "tor": 35,
+      "zitat_original": "Param drshtva nivartate",
+      "zitat_quelle": "Bhagavad Gita 2.59",
+      "uebersetzung": "Durch das Schauen des Höchsten wendet man sich ab - Wahre Erkenntnis löst Anhaftung",
+      "tantra_aufgabe": "Verzichte heute bewusst auf eine Gewohnheit"
+    },
+    {
+      "tor": 36,
+      "zitat_original": "Music fills the infinite between two souls",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Musik füllt die Unendlichkeit zwischen zwei Seelen",
+      "tantra_aufgabe": "Höre heute ein Musikstück, das dein Herz berührt"
+    },
+    {
+      "tor": 37,
+      "zitat_original": "Sarvadharmān parityajya",
+      "zitat_quelle": "Bhagavad Gita 18.66",
+      "uebersetzung": "Lasse alle Pflichten los und nimm allein Zuflucht zu mir - Vollständige Hingabe",
+      "tantra_aufgabe": "Vertraue heute vollkommen auf den Fluss des Lebens"
+    },
+    {
+      "tor": 38,
+      "zitat_original": "Satyasya satyam",
+      "zitat_quelle": "Brihadaranyaka Upanishad",
+      "uebersetzung": "Die Wahrheit der Wahrheit - Das wahre Selbst hinter allem",
+      "tantra_aufgabe": "Sei heute radikal ehrlich zu dir selbst"
+    },
+    {
+      "tor": 39,
+      "zitat_original": "We live in the world when we love it",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Wir leben in der Welt, wenn wir sie lieben",
+      "tantra_aufgabe": "Finde heute etwas Schönes in deiner Umgebung und würdige es"
+    },
+    {
+      "tor": 40,
+      "zitat_original": "Dhyanavasthita tad gatena manasa",
+      "zitat_quelle": "Bhagavad Gita 6.14",
+      "uebersetzung": "Mit dem Geist in Meditation vertieft - Innere Ruhe durch Kontemplation",
+      "tantra_aufgabe": "Setze dich heute 10 Minuten in Stille hin"
+    },
+    {
+      "tor": 41,
+      "zitat_original": "Isavasyam idam sarvam",
+      "zitat_quelle": "Isha Upanishad",
+      "uebersetzung": "Alles dies ist vom Göttlichen durchdrungen - Erkenne das Heilige in allem",
+      "tantra_aufgabe": "Behandle heute alle Begegnungen als heilig"
+    },
+    {
+      "tor": 42,
+      "zitat_original": "Let me not pray to be sheltered from dangers, but to be fearless in facing them",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Lass mich nicht beten, vor Gefahren geschützt zu werden, sondern furchtlos zu sein, wenn ich ihnen begegne",
+      "tantra_aufgabe": "Stelle dich heute einer kleinen Angst"
+    },
+    {
+      "tor": 43,
+      "zitat_original": "Chitakasha",
+      "zitat_quelle": "Yoga Vashishta",
+      "uebersetzung": "Der Raum des Bewusstseins - Das grenzenlose innere Universum",
+      "tantra_aufgabe": "Visualisiere heute einen weiten, offenen Raum in deinem Inneren"
+    },
+    {
+      "tor": 44,
+      "zitat_original": "Mayi sarvam idam protam",
+      "zitat_quelle": "Bhagavad Gita 7.7",
+      "uebersetzung": "In mir ist all dies aufgereiht - Alles existiert im göttlichen Bewusstsein",
+      "tantra_aufgabe": "Erkenne heute, dass du Teil eines größeren Ganzen bist"
+    },
+    {
+      "tor": 45,
+      "zitat_original": "Every child comes with the message that God is not yet discouraged of man",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Jedes Kind kommt mit der Botschaft, dass Gott noch nicht entmutigt ist vom Menschen",
+      "tantra_aufgabe": "Betrachte heute die Welt mit Kinderaugen"
+    },
+    {
+      "tor": 46,
+      "zitat_original": "Neti neti",
+      "zitat_quelle": "Brihadaranyaka Upanishad",
+      "uebersetzung": "Nicht dies, nicht das - Die Methode der Negation zur Wahrheitsfindung",
+      "tantra_aufgabe": "Frage dich heute: 'Was bin ich NICHT?'"
+    },
+    {
+      "tor": 47,
+      "zitat_original": "Kshama viramasya",
+      "zitat_quelle": "Mahabharata",
+      "uebersetzung": "Vergebung ist die Stärke der Starken - Wahre Kraft zeigt sich in Vergebung",
+      "tantra_aufgabe": "Vergib heute jemandem (oder dir selbst)"
+    },
+    {
+      "tor": 48,
+      "zitat_original": "The small wisdom is like water in a glass: clear, transparent, pure. The great wisdom is like the water in the sea: dark, mysterious, impenetrable",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Kleine Weisheit ist wie Wasser im Glas: klar, transparent, rein. Große Weisheit ist wie Wasser im Meer: dunkel, geheimnisvoll, undurchdringlich",
+      "tantra_aufgabe": "Akzeptiere heute ein Mysterium ohne es lösen zu müssen"
+    },
+    {
+      "tor": 49,
+      "zitat_original": "Anantam brahma",
+      "zitat_quelle": "Taittiriya Upanishad",
+      "uebersetzung": "Brahman ist unendlich - Das Absolute kennt keine Grenzen",
+      "tantra_aufgabe": "Spüre heute in die Grenzenlosigkeit des Himmels"
+    },
+    {
+      "tor": 50,
+      "zitat_original": "Abhyasa vairagyabhyam",
+      "zitat_quelle": "Bhagavad Gita 6.35",
+      "uebersetzung": "Durch beständige Übung und Loslassen - Der Weg zur Meisterschaft",
+      "tantra_aufgabe": "Übe heute 15 Minuten etwas, das dir wichtig ist"
+    },
+    {
+      "tor": 51,
+      "zitat_original": "Reach high, for stars lie hidden in you. Dream deep, for every dream precedes the goal",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Greife hoch, denn Sterne liegen verborgen in dir. Träume tief, denn jeder Traum geht dem Ziel voraus",
+      "tantra_aufgabe": "Schreibe heute deinen wildesten Traum auf"
+    },
+    {
+      "tor": 52,
+      "zitat_original": "Sarvam annam",
+      "zitat_quelle": "Taittiriya Upanishad",
+      "uebersetzung": "Alles ist Nahrung - Alles nährt und wird genährt im kosmischen Tanz",
+      "tantra_aufgabe": "Iss heute etwas mit voller Achtsamkeit und Dankbarkeit"
+    },
+    {
+      "tor": 53,
+      "zitat_original": "Manah prasadah",
+      "zitat_quelle": "Bhagavad Gita 17.16",
+      "uebersetzung": "Heiterkeit des Geistes - Innerer Frieden als höchstes Gut",
+      "tantra_aufgabe": "Finde heute 3 Momente des inneren Friedens"
+    },
+    {
+      "tor": 54,
+      "zitat_original": "The water in a vessel is sparkling; the water in the sea is dark",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Das Wasser im Gefäß funkelt; das Wasser im Meer ist dunkel",
+      "tantra_aufgabe": "Trinke heute ein Glas Wasser ganz bewusst"
+    },
+    {
+      "tor": 55,
+      "zitat_original": "Jnana dipena",
+      "zitat_quelle": "Bhagavad Gita 10.11",
+      "uebersetzung": "Mit der Lampe der Weisheit - Erkenntnis erleuchtet die Dunkelheit",
+      "tantra_aufgabe": "Lerne heute etwas, das deine Perspektive erweitert"
+    },
+    {
+      "tor": 56,
+      "zitat_original": "Pranapratishtham",
+      "zitat_quelle": "Prasna Upanishad",
+      "uebersetzung": "Im Atem gegründet - Die Lebenskraft als Fundament",
+      "tantra_aufgabe": "Atme heute 10 Mal bewusst und tief"
+    },
+    {
+      "tor": 57,
+      "zitat_original": "Age considers; youth ventures",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Das Alter erwägt; die Jugend wagt",
+      "tantra_aufgabe": "Wage heute etwas Neues"
+    },
+    {
+      "tor": 58,
+      "zitat_original": "Tapasvi",
+      "zitat_quelle": "Bhagavad Gita 6.46",
+      "uebersetzung": "Der Asket übertrifft alle anderen - Selbstdisziplin führt zur Höchsten",
+      "tantra_aufgabe": "Übe heute Disziplin in einem Bereich deines Lebens"
+    },
+    {
+      "tor": 59,
+      "zitat_original": "Om purnamadah purnamidam",
+      "zitat_quelle": "Isha Upanishad",
+      "uebersetzung": "Das ist vollkommen, dies ist vollkommen - Vollkommenheit aus Vollkommenheit",
+      "tantra_aufgabe": "Erkenne heute die Vollkommenheit in etwas Unvollkommenem"
+    },
+    {
+      "tor": 60,
+      "zitat_original": "By plucking her petals, you do not gather the beauty of the flower",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Indem du ihre Blütenblätter zupfst, sammelst du nicht die Schönheit der Blume",
+      "tantra_aufgabe": "Bewundere heute etwas Schönes, ohne es zu besitzen"
+    },
+    {
+      "tor": 61,
+      "zitat_original": "Kshetrajna",
+      "zitat_quelle": "Bhagavad Gita 13.1",
+      "uebersetzung": "Der Kenner des Feldes - Das bewusste Selbst, das den Körper bewohnt",
+      "tantra_aufgabe": "Beobachte heute deinen Körper als neutraler Zeuge"
+    },
+    {
+      "tor": 62,
+      "zitat_original": "Ritam satyam param brahma",
+      "zitat_quelle": "Mundaka Upanishad",
+      "uebersetzung": "Wahrheit, Wahrhaftigkeit, höchstes Brahman - Die kosmische Ordnung",
+      "tantra_aufgabe": "Lebe heute in völliger Übereinstimmung mit deinen Werten"
+    },
+    {
+      "tor": 63,
+      "zitat_original": "The fish in the water is silent, the animal on the earth is noisy, the bird in the air is singing",
+      "zitat_quelle": "Rabindranath Tagore",
+      "uebersetzung": "Der Fisch im Wasser ist still, das Tier auf der Erde ist laut, der Vogel in der Luft singt",
+      "tantra_aufgabe": "Wähle heute bewusst, wann du still bist und wann du sprichst"
+    },
+    {
+      "tor": 64,
+      "zitat_original": "Om shanti shanti shanti",
+      "zitat_quelle": "Upanishaden",
+      "uebersetzung": "Frieden, Frieden, Frieden - Frieden in Körper, Geist und Seele",
+      "tantra_aufgabe": "Sende heute jemandem Frieden in Gedanken"
+    }
+  ]
+}
